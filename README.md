@@ -8,12 +8,3 @@ I'm Torbjörn Onshage and I'am a student in Engineering Physics, a masters progr
 * From scratch implementation of the classic Pong videogame using C++ and the Win32 API
 
 * Implementation of a PID-controller in C++
-
-## Languages & Tools
-* C++ (gcc)
-* Git
-* Java
-* Make
-* Matlab
-* Python
-* WSL 2
