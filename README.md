@@ -1,4 +1,4 @@
-![Markdown Logo](https://raw.githubusercontent.com/OdinhengeT/OdinhengeT/master/Images/Logo_Slim.png)
+![Markdown Logo](https://raw.githubusercontent.com/OdinhengeT/OdinhengeT/master/Images/Logo.png)
 
 ## Hello There!
 I'm Torbjörn Onshage and I'am a student in Engineering Physics, a masters program containing Physics, Mathematics and Data Sience, at Lund University.  
