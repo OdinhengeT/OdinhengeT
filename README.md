@@ -5,6 +5,8 @@ I'm Torbjörn Onshage and I'am a student in Engineering Physics, a masters progr
 
 ## Current Projects
 
+* Convergence analysis of Monte Carlo calculation on nuclear fission reactors with the Shannon entropy using openMC and python 
+
 * From scratch implementation of the classic Pong videogame using C++ and the Win32 API
 
 * Implementation of a PID-controller in C++
